@@ -1,1 +1,4 @@
-Trigger=true
+{
+   "Trigger": true,
+   "folder_path": "/home/ubuntu/temp/*",
+}
