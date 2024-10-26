@@ -1,4 +1,4 @@
 {
-  "Trigger": true,
-  "folder_path": "/tmp"
+   "Trigger": true,
+   "folder_path": "/home/ubuntu/*",
 }
